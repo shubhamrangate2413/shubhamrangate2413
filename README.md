@@ -2,7 +2,7 @@
 
 🌱 A Big Data Engineer having good experience in Hadoop, Hive, Spark, Hbase, Oracle, Snowflake, databricks, and many ETL processes.
 
-👀 Aspiring Data Scientist with strong math background and 3 months of experience in data processing, predictive modeling, forecasting and NLP. Strong knowledge in Python, ML and Deep Learning techniques like neural networks, image processing as well as time series forecasting.
+👀 Aspiring Data Scientist with strong math background and 2 yesrs of experience in data processing, predictive modeling, forecasting and NLP. Strong knowledge in Python, ML and Deep Learning techniques like neural networks, image processing as well as time series forecasting.
 
 🌱 I’m currently learning Data Scientist course from ExcelR Solutions from AI Variant where I am working on projects which helped me learn more about EDA, data visualizations, predictive ML models, Forecasting models, text mining, sentiment analysis and streamlit deployment.
 
